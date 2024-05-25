@@ -6,4 +6,4 @@ This game has:
 
 - Difficulty selector
 
-![Minesweeper example](.github/minesweeper.jpg)
+<img src=".github/minesweeper.jpg" width="350"/>
